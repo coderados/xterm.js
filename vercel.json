@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "npm run build && npm run esbuild-demo-client",
+  "buildCommand": "npm run build && npm run esbuild && npm run esbuild-demo-client",
   "outputDirectory": "demo",
   "framework": null
 }
